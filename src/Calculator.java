@@ -7,7 +7,7 @@ public class Calculator {
         long numberMax = max(568231892, 555123245);
         //Math.abs() Returns the absolute value of a long value.
         long numberMinus = abs(-2356);
-        //Math.sgrt() Returns the correctly rounded positive square root of a double value.
+        //Math.sqrt() Returns the correctly rounded positive square root of a double value.
         double number = sqrt(25);
         //Math.addExact() Returns the sum of its arguments, throwing an exception if the result overflows an int.
         int numberSum = addExact(256, 235);
